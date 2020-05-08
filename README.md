@@ -73,7 +73,7 @@ This README lays out the options available on each element.
   * "green"
   * "disabled" 
   
-  ### textheader.js element options:
+  ## textheader.js element options:
 
 `data-text-header`:
 * Text to appear in element
@@ -83,7 +83,7 @@ This README lays out the options available on each element.
 
 
 
-### grid.js element options:
+## grid.js element options:
 
 `data-options-cells-per-row`:
 * number of images to be displayed per row of the grid
@@ -102,7 +102,7 @@ This README lays out the options available on each element.
   
   
   
-  ### grid-cell.js element options  
+  ## grid-cell.js element options  
 
 `data-image`:
 * Image link to display
